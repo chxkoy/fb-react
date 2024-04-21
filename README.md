@@ -1,25 +1,25 @@
-# FacebookLikers
+# Facebook Auto React
 
-**FacebookLikers is an automated Facebook reaction script. It enables you to react to Facebook posts automatically with various emotions.**
+**Facebook Auto React is an automated Facebook reaction script. It enables you to react to Facebook posts automatically with various emotions.**
 
 ## Installation
 ```bash
 cd $HOME &&
 pkg update &&
 pkg install git nodejs &&
-rm -rf FacebookLikers &&
+rm -rf Fb-auto-react &&
 git clone https://github.com/Kairu-bit/FacebookLikers &&
-cd FacebookLikers &&
+cd Fb-auto-react &&
 node index.js
 ```
 
 ## Contact Information
 
-- **[Kyle Tilano](https://www.facebook.com/KairuxDev)** on Facebook
-- **[KairuDev](https://t.me/KairuDev)** on Telegram
+- **[Kyle Tilano](http://www.facebook.com/xenvrnslol)** on Facebook
+- **[KairuDev](https://t.me/ufxeen)** on Telegram
 
 # Commands
-- **FBLikers:** Like, Love, Haha, Wow, Sad, Care, Angry.
+- **Facebook Auto React:** Like, Love, Haha, Wow, Sad, Care, Angry.
 - **ShowCookie:** Display Cookie Information.
 - **CM (CookieManagement):** AddCookie, DeleteCookie.
 - **Feedback:** Chat With Developer.
